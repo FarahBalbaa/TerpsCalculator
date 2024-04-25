@@ -1,0 +1,46 @@
+.bg{
+   background-image: url(background.jpg);
+   background-size:50% 50%;
+   background-repeat:repeat;
+}
+.table{
+    border-color: black;
+    background-color: bisque;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-width:medium ;
+    border-color: black;
+}
+.container img{
+    margin: 0 10px;
+    width: 70px;
+    height: 70px;
+    border-radius: 30%;
+    border-style: groove;
+    border-color: black;
+}
+.section_one{ 
+    border-width:medium ;
+    border-color: black;
+}
+.section_two{
+    text-align: center;
+    border-width:medium ;
+    border-color: black;
+}
+.a{
+    color: red;
+}
+.section_three{
+    border-width:medium ;
+    border-color: black;
+}
+.section_four{
+    text-align: center;
+    border-width:medium ;
+    border-color: black;
+}
